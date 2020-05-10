@@ -1,7 +1,7 @@
 package mysql_utils
 
 import (
-	mysql "github.com/Go-SQL-Driver/MySQL"
+	mysql "github.com/go-sql-driver/mysql"
 	"github.com/popsompong/bookstore_users-api/utils/errors"
 	"strings"
 )
